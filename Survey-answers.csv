@@ -1,0 +1,264 @@
+uuid,harassment,reason,message_id
+fa8a159a-d306-43f9-aec6-dbd369736193,t,"The message is personal and insulting, not focusing on the quality of the work performed but rather on attributes of the person",1
+fa8a159a-d306-43f9-aec6-dbd369736193,t,"Violent and graphic language is used. Had it been the second sentence only, would’ve not been harassment. ",2
+fa8a159a-d306-43f9-aec6-dbd369736193,t,Personal attack,3
+03d6b700-1a80-4eae-a66c-79140db93b1e,t,"",3
+03d6b700-1a80-4eae-a66c-79140db93b1e,t,"",4
+03d6b700-1a80-4eae-a66c-79140db93b1e,t,"",5
+03d6b700-1a80-4eae-a66c-79140db93b1e,t,"",6
+fa8a159a-d306-43f9-aec6-dbd369736193,f,"Vague and no real details or graphic nature, in isolation would not necessarily consider this as harassment",4
+fa8a159a-d306-43f9-aec6-dbd369736193,f,"",7
+fa8a159a-d306-43f9-aec6-dbd369736193,t,"Personal, graphic, attacking",8
+fa8a159a-d306-43f9-aec6-dbd369736193,t,"Personal, uses slurs ",9
+1f934b0b-c4b3-4130-a490-67d18601efab,t,"The entire tone of the message is pretty aggressive. ""You shall suffer for this"" sounds like a threat to me.",10
+1f934b0b-c4b3-4130-a490-67d18601efab,t,"Yeah, this one is pretty clear harassment and has a pretty clear threat of physical violence in it.",11
+1f934b0b-c4b3-4130-a490-67d18601efab,t,"This person obviously wan't to cause someone else harm (not physical in this case, but more emotional by pretending to be them online)",12
+1f934b0b-c4b3-4130-a490-67d18601efab,t,"Removing a comment from a website isn't a protected thing, there's no law saying you can't do it. There is a law against DDOS though. So they're threatening to commit a crime, total harassment.",13
+1f934b0b-c4b3-4130-a490-67d18601efab,t,Use of a derogatory term and calling someone a name.,14
+1f934b0b-c4b3-4130-a490-67d18601efab,t,Lots of name calling and using all-caps insinuates shouting.,15
+1f934b0b-c4b3-4130-a490-67d18601efab,t,"""why don't you die"" is a pretty aggressive thing to say to someone",16
+1f934b0b-c4b3-4130-a490-67d18601efab,t,"",17
+1f934b0b-c4b3-4130-a490-67d18601efab,t,"",18
+1f934b0b-c4b3-4130-a490-67d18601efab,t,"",19
+1f934b0b-c4b3-4130-a490-67d18601efab,f,"It's hard to say with this one without context. If the person literally came back from a fishing trip, then this would make sense. I'm gonna err on ""no"" for this one.",20
+1f934b0b-c4b3-4130-a490-67d18601efab,t,"It was fine up until ""worth the dirt on my shoes"" which kinda degrades this persons point.",1
+1f934b0b-c4b3-4130-a490-67d18601efab,t,Threat of physical violence,2
+1f934b0b-c4b3-4130-a490-67d18601efab,f,"I dunno! This is one is hard to tell without context. It could be if it was aimed to cause someone harm, but it could be something said among friends who know each other really well and are being stupid.
+
+In any case, it doesn't sound like a nice thing to say to someone.",5
+1f934b0b-c4b3-4130-a490-67d18601efab,t,Name-calling.,6
+1f934b0b-c4b3-4130-a490-67d18601efab,t,"Name calling ""motha fucka"" in this case.",7
+1f934b0b-c4b3-4130-a490-67d18601efab,t,"It's a pretty hateful thing to say, there's nothing constructive in that comment.",8
+1f934b0b-c4b3-4130-a490-67d18601efab,t,Name calling,9
+1f934b0b-c4b3-4130-a490-67d18601efab,t,It seems like the intention here is to hurt someones feelings,3
+1f934b0b-c4b3-4130-a490-67d18601efab,t,Sounds like a three to me,4
+5325ce4c-c9e4-46a3-89da-cb2104cd67c9,t,"The... imagery? The absurd, repeated question.",5
+5325ce4c-c9e4-46a3-89da-cb2104cd67c9,t,"The word ""kikes"". ""You shall suffer for this"".",10
+5325ce4c-c9e4-46a3-89da-cb2104cd67c9,t,The violent threat,11
+5325ce4c-c9e4-46a3-89da-cb2104cd67c9,f,Smiley face. Seems familiar and in-jest rather than threatening.,12
+5325ce4c-c9e4-46a3-89da-cb2104cd67c9,f,"A toaster is not really DDOS-able, so this just comes off as an absurd (satirical) threat",13
+5325ce4c-c9e4-46a3-89da-cb2104cd67c9,t,"The word ""faggot"". The threat. The smileys are there to just throw off a bad-word regexp.",14
+5325ce4c-c9e4-46a3-89da-cb2104cd67c9,t,"All caps. ""Bitch"". ""Shut the fuck up"". ""Keep your fucking mouth shut"" ""Damn nerd""",15
+5325ce4c-c9e4-46a3-89da-cb2104cd67c9,t,Suggesting someone kill themselves,16
+5325ce4c-c9e4-46a3-89da-cb2104cd67c9,t,"Graphic imagery. ""Whore""",17
+5325ce4c-c9e4-46a3-89da-cb2104cd67c9,t,"Suggesting they're a ""wanker"". ""You dick""",18
+5325ce4c-c9e4-46a3-89da-cb2104cd67c9,t,"""bitch""",19
+5325ce4c-c9e4-46a3-89da-cb2104cd67c9,t,"",20
+5325ce4c-c9e4-46a3-89da-cb2104cd67c9,t,"",1
+5325ce4c-c9e4-46a3-89da-cb2104cd67c9,t,Death threat.,2
+5325ce4c-c9e4-46a3-89da-cb2104cd67c9,t,"""cock muncher""",6
+5325ce4c-c9e4-46a3-89da-cb2104cd67c9,t,Threatening offline retaliation i.e. calling the FBI.,7
+5325ce4c-c9e4-46a3-89da-cb2104cd67c9,t,"",8
+5325ce4c-c9e4-46a3-89da-cb2104cd67c9,t,"Allcaps. ""Faggot"". Threatening to keep returning.",9
+5325ce4c-c9e4-46a3-89da-cb2104cd67c9,t,Calling your mother a prostitute.,3
+5325ce4c-c9e4-46a3-89da-cb2104cd67c9,t,Suggesting offline harm,4
+8f5b96db-656d-4d9b-add5-d193cca92afe,t,It uses slurs. It attempts to threaten by exerting supposed power over the reader. ,10
+8f5b96db-656d-4d9b-add5-d193cca92afe,t,It is a threat.,11
+8f5b96db-656d-4d9b-add5-d193cca92afe,t,It is attempting to threaten the reader.,12
+8f5b96db-656d-4d9b-add5-d193cca92afe,t,"Although 'DDOS your toaster' is used comically, the language is still threaten and creates hostile environment.",13
+8f5b96db-656d-4d9b-add5-d193cca92afe,t,It uses slurs.,14
+8f5b96db-656d-4d9b-add5-d193cca92afe,t,It uses slurs. The use of all-caps is an attempt to threaten and intimidate.,15
+8f5b96db-656d-4d9b-add5-d193cca92afe,t,It is a threat.,16
+8f5b96db-656d-4d9b-add5-d193cca92afe,t,It uses slurs.,17
+8f5b96db-656d-4d9b-add5-d193cca92afe,t,It uses slurs.,18
+8f5b96db-656d-4d9b-add5-d193cca92afe,t,It uses slurs. It attempts to imply weakness in the person they are responding to.,19
+91c116cb-dfb2-4bb7-85e9-f97ae651d3db,t,Violent threat.,2
+7017b28c-79ec-4cad-ad7e-79b8635c15ee,t,"Ok, that's the first one that made me laugh. Still just an unhelpful insult though.",20
+8f5b96db-656d-4d9b-add5-d193cca92afe,f,Debateable. It would likely depend on the context of the conversation. There is a chance this message could be used in jest between friends which is why I've marked it as 'No'. But more than likely it harassment as it is a slur. ,20
+8f5b96db-656d-4d9b-add5-d193cca92afe,t,It uses slurs. ,1
+8f5b96db-656d-4d9b-add5-d193cca92afe,t,It is a direct threat.,2
+8f5b96db-656d-4d9b-add5-d193cca92afe,t,It is a prejudiced slur.,5
+8f5b96db-656d-4d9b-add5-d193cca92afe,t,It is a prejudiced slur.,6
+8f5b96db-656d-4d9b-add5-d193cca92afe,t,It is a slur. It attempts to threaten.,7
+8f5b96db-656d-4d9b-add5-d193cca92afe,t,It is a prejudiced slur.,8
+8f5b96db-656d-4d9b-add5-d193cca92afe,t,It is a highly aggressive slur. The use of all-caps attempts to threaten and intimidate.,9
+8f5b96db-656d-4d9b-add5-d193cca92afe,t,It is a slur.,3
+8f5b96db-656d-4d9b-add5-d193cca92afe,t,It attempts to threaten the reader.,4
+f39d0d31-fd1e-4edf-a246-48be8ac2b81d,t,"The phrase ""wiki-kikes"" is antisemitism. It contains a clear threat at the end. Starting with all caps isn't harassing per se but it's definitely not a sign of reasoned discourse. ",10
+f39d0d31-fd1e-4edf-a246-48be8ac2b81d,t,"It contains a violent, profane threat. It may be in response to harassment also (e.g. ""stop being a shithead"") but there's not enough context to decide. ",11
+f39d0d31-fd1e-4edf-a246-48be8ac2b81d,t,It specifically calls out an intent to persist in harassing behavior. ,12
+7409d777-b3cb-4eaa-9cd5-c037253b22ea,t,"",13
+8bb45aef-5e4a-4216-97c6-86c06714306e,t,"Using the slur ""faggot"" is what crosses the line. It is especially harrassing if the recipient is actually homosexual. If not, it is a mild form of harrassing.",14
+91c116cb-dfb2-4bb7-85e9-f97ae651d3db,t,inappropriate language and name calling. The smiley faces don't make this any less offensive.,14
+8bb45aef-5e4a-4216-97c6-86c06714306e,f,"It is using cursing, but in content is only asking the recipient to be quiet and mind their own business. No slurs are used.",15
+91c116cb-dfb2-4bb7-85e9-f97ae651d3db,f,"Again, inappropriate language, but voiced defensively.",15
+8bb45aef-5e4a-4216-97c6-86c06714306e,f,"This depends on the context - if the recipient has communicated they are suicidal, this would be harassment. But if not (which is the likeliest scenario), it is not harassment.",16
+8bb45aef-5e4a-4216-97c6-86c06714306e,t,The reference to Jesus is specific and means this is harassing someone for their Christian faith.,17
+91c116cb-dfb2-4bb7-85e9-f97ae651d3db,t,"May or may not be, but if repeated on a regular basis, this could be considered harassment",16
+8bb45aef-5e4a-4216-97c6-86c06714306e,f,"Context is again important: if the recipient is a transgender woman, this would be harassment. Otherwise (likeliest scenario), it would be simply offensive but not harassment.
+
+CONTEXT IS KING. Only picking out words or phrases will NOT help find harassment except in rare cases like slurs.",18
+8bb45aef-5e4a-4216-97c6-86c06714306e,f,"No slurs used, just offensive.",19
+91c116cb-dfb2-4bb7-85e9-f97ae651d3db,t,Deliberately aimed at someone.,18
+8bb45aef-5e4a-4216-97c6-86c06714306e,f,Barely offensive. (depending on the context),20
+7017b28c-79ec-4cad-ad7e-79b8635c15ee,t,"It depends on context, but assuming this was from a stranger, calling somebody a dick counts as harassment.",18
+91c116cb-dfb2-4bb7-85e9-f97ae651d3db,t,"Yeah, I mean, no one wants to smell like fish. Bit offensive.",20
+8bb45aef-5e4a-4216-97c6-86c06714306e,t,"Borderline due to the phrase ""not worth the dirt on my shoes"" as this is specifically devaluing the other person.",1
+7017b28c-79ec-4cad-ad7e-79b8635c15ee,t,"""You are not worth the dirt on my shoes""...this is clearly just insulting, not constructive criticism.",1
+7017b28c-79ec-4cad-ad7e-79b8635c15ee,t,Threat of violence is definitely harassment.,2
+8bb45aef-5e4a-4216-97c6-86c06714306e,f,"The message, though inappropriate, is clearly not an actual threat of violence. ",2
+7017b28c-79ec-4cad-ad7e-79b8635c15ee,t,Random sexual insults,5
+91c116cb-dfb2-4bb7-85e9-f97ae651d3db,t,Aggressive and belittling. ,1
+8bb45aef-5e4a-4216-97c6-86c06714306e,t,Attack on recipients' sexuality.,5
+7017b28c-79ec-4cad-ad7e-79b8635c15ee,t,More random insults,6
+91c116cb-dfb2-4bb7-85e9-f97ae651d3db,t,Name calling.,6
+7017b28c-79ec-4cad-ad7e-79b8635c15ee,t,Even more random insults,7
+7017b28c-79ec-4cad-ad7e-79b8635c15ee,t,"More random insults, with sideswipes at autism and Catholicism.",8
+91c116cb-dfb2-4bb7-85e9-f97ae651d3db,t,"Foul language, name calling, and threatening.",7
+7017b28c-79ec-4cad-ad7e-79b8635c15ee,t,Yelled insults.,9
+91c116cb-dfb2-4bb7-85e9-f97ae651d3db,t,Threatening.,9
+91c116cb-dfb2-4bb7-85e9-f97ae651d3db,t,"Aggressive, threatening and lofty.",10
+7017b28c-79ec-4cad-ad7e-79b8635c15ee,t,"""WIKI-KIKES"" is a (pretty strange) ethnic slur, and ""you shall suffer for this"" is a threat.",10
+7017b28c-79ec-4cad-ad7e-79b8635c15ee,t,Threat of violence.,11
+91c116cb-dfb2-4bb7-85e9-f97ae651d3db,t,Violent threats.,11
+7017b28c-79ec-4cad-ad7e-79b8635c15ee,t,Clear intent to annoy.,12
+91c116cb-dfb2-4bb7-85e9-f97ae651d3db,t,"Indicates that they have had a previous encounter with the 'user'. And will ""continue"" their behaviour.
+",12
+91c116cb-dfb2-4bb7-85e9-f97ae651d3db,t,Sounds like revenge.,13
+419816a4-a583-45dc-b73e-b4d723373121,t,swears,17
+7017b28c-79ec-4cad-ad7e-79b8635c15ee,t,Threats.,13
+419816a4-a583-45dc-b73e-b4d723373121,t,bitch,19
+419816a4-a583-45dc-b73e-b4d723373121,t,personal attack,3
+419816a4-a583-45dc-b73e-b4d723373121,t,threat,4
+7017b28c-79ec-4cad-ad7e-79b8635c15ee,t,"Insults, swearing.",19
+91c116cb-dfb2-4bb7-85e9-f97ae651d3db,t,Lewd. I'm assuming in response to a religious post. ,17
+7017b28c-79ec-4cad-ad7e-79b8635c15ee,t,"",14
+7017b28c-79ec-4cad-ad7e-79b8635c15ee,t,"",15
+419816a4-a583-45dc-b73e-b4d723373121,t,swears,8
+7017b28c-79ec-4cad-ad7e-79b8635c15ee,t,"",16
+419816a4-a583-45dc-b73e-b4d723373121,t,threat,16
+91c116cb-dfb2-4bb7-85e9-f97ae651d3db,t,"",8
+419816a4-a583-45dc-b73e-b4d723373121,f,a little too silly ,20
+7017b28c-79ec-4cad-ad7e-79b8635c15ee,t,"",3
+419816a4-a583-45dc-b73e-b4d723373121,t,"",5
+91c116cb-dfb2-4bb7-85e9-f97ae651d3db,t,"",3
+7017b28c-79ec-4cad-ad7e-79b8635c15ee,t,Threat.,4
+7017b28c-79ec-4cad-ad7e-79b8635c15ee,t,"",17
+91c116cb-dfb2-4bb7-85e9-f97ae651d3db,t,Possibly a threatening promise.,4
+91c116cb-dfb2-4bb7-85e9-f97ae651d3db,t,Aggressive feedback.,19
+91c116cb-dfb2-4bb7-85e9-f97ae651d3db,t,Lewd.,5
+433381bd-446f-4606-aa43-7e1235b76b6e,t,Personally-directed insult,6
+433381bd-446f-4606-aa43-7e1235b76b6e,t,"",7
+433381bd-446f-4606-aa43-7e1235b76b6e,t,"",9
+433381bd-446f-4606-aa43-7e1235b76b6e,t,"",10
+433381bd-446f-4606-aa43-7e1235b76b6e,t,"",11
+433381bd-446f-4606-aa43-7e1235b76b6e,t,"",12
+433381bd-446f-4606-aa43-7e1235b76b6e,t,"",13
+433381bd-446f-4606-aa43-7e1235b76b6e,t,"",14
+433381bd-446f-4606-aa43-7e1235b76b6e,t,"",15
+433381bd-446f-4606-aa43-7e1235b76b6e,t,"",18
+433381bd-446f-4606-aa43-7e1235b76b6e,t,"",1
+433381bd-446f-4606-aa43-7e1235b76b6e,t,"",2
+433381bd-446f-4606-aa43-7e1235b76b6e,t,"",8
+433381bd-446f-4606-aa43-7e1235b76b6e,t,"",16
+433381bd-446f-4606-aa43-7e1235b76b6e,t,"",17
+433381bd-446f-4606-aa43-7e1235b76b6e,t,"",19
+433381bd-446f-4606-aa43-7e1235b76b6e,t,"",20
+433381bd-446f-4606-aa43-7e1235b76b6e,t,"",3
+433381bd-446f-4606-aa43-7e1235b76b6e,t,"",4
+433381bd-446f-4606-aa43-7e1235b76b6e,t,"",5
+b5802ccd-40b1-4eca-bbaa-c93168e5c608,f,It's an opinion spoken in pulic and is free speech.,6
+b5802ccd-40b1-4eca-bbaa-c93168e5c608,f,It's clearly written by an idiot with no ability to follow through.,7
+b5802ccd-40b1-4eca-bbaa-c93168e5c608,f,"",9
+b5802ccd-40b1-4eca-bbaa-c93168e5c608,f,The user probably has a point.,10
+b5802ccd-40b1-4eca-bbaa-c93168e5c608,f,"The internet has never ripped off my head, nor do I see how it could.",11
+b5802ccd-40b1-4eca-bbaa-c93168e5c608,t,"Now this user us actually doing something wrong, as online vandalism is against TOS (and in some jurisdictions illegal) and this is targeted.",12
+b5802ccd-40b1-4eca-bbaa-c93168e5c608,t,"Again, DDOS is illegal and this is targeted.",13
+b5802ccd-40b1-4eca-bbaa-c93168e5c608,f,It's an opinion spoken in pulic and is free speech.,14
+b5802ccd-40b1-4eca-bbaa-c93168e5c608,f,It's an opinion spoken in pulic and is free speech.,15
+b5802ccd-40b1-4eca-bbaa-c93168e5c608,f,It's an opinion spoken in pulic and is free speech.,18
+b5802ccd-40b1-4eca-bbaa-c93168e5c608,f,It's an opinion spoken in public and is free speech.,1
+b5802ccd-40b1-4eca-bbaa-c93168e5c608,f,I'd do the same.,2
+b5802ccd-40b1-4eca-bbaa-c93168e5c608,f,It's an opinion spoken in public and is free speech.,8
+b5802ccd-40b1-4eca-bbaa-c93168e5c608,f,It's an opinion spoken in public and is free speech.,16
+b5802ccd-40b1-4eca-bbaa-c93168e5c608,f,It's an opinion spoken in public and is free speech.,17
+b5802ccd-40b1-4eca-bbaa-c93168e5c608,f,It's an opinion spoken in public and is free speech.,19
+b5802ccd-40b1-4eca-bbaa-c93168e5c608,f,It's an opinion spoken in public and is free speech.,20
+b5802ccd-40b1-4eca-bbaa-c93168e5c608,f,It's an opinion spoken in public and is free speech.,3
+b5802ccd-40b1-4eca-bbaa-c93168e5c608,t,Targeted attacks.,4
+b5802ccd-40b1-4eca-bbaa-c93168e5c608,f,It's an opinion spoken in public and is free speech.,5
+6212af02-c142-408d-854f-577450839639,t,It uses a vulgar sexual phrase to insult someone.,6
+6212af02-c142-408d-854f-577450839639,t,"It uses vulgarities to insult someone and it is directly physically threatening: you'll be getting a visit, you'll never find me, etc.",7
+6212af02-c142-408d-854f-577450839639,t,"The all-caps make it seem like shouting, it's peppered with vulgarities and insults (including homophobic slurs), it sounds directly physically threatening (""I am giving you a last chance""), and it's trying to make the recipient of the message feel helpless (""you can't block me"").",9
+6212af02-c142-408d-854f-577450839639,t,"It uses an antisemitic slur and is directly threatening (""you shall suffer for this"").",10
+6212af02-c142-408d-854f-577450839639,t,It's vulgar and directly physically threatening.,11
+6212af02-c142-408d-854f-577450839639,t,"It's designed to make the recipient of the message feel helpless and at the harasser's mercy: ""I fully intend to continue...""",12
+6212af02-c142-408d-854f-577450839639,f,I'm not sure about this one. Is it possible to DDOS a toaster...?,13
+6212af02-c142-408d-854f-577450839639,t,It's vulgar and homophobic.,14
+6212af02-c142-408d-854f-577450839639,t,"It's vulgar and misogynist, with a sense of threat: ""I suggest you keep your mouth shut"" - there's an implied ""or else"" there.",15
+6212af02-c142-408d-854f-577450839639,f,"It's a stupid and insulting message, but it doesn't feel threatening or imply that the writer wants to launch a sustained campaign of harassment. It's like a drive-by insult.",18
+6212af02-c142-408d-854f-577450839639,f,"Viewed in isolation, the message is insulting but it doesn't feel directly threatening. If the writer were to send multiple messages like this, it would move into the area of harassment. ",1
+6212af02-c142-408d-854f-577450839639,t,"Threats of physical violence of any sort (even theoretical threats like the one here) are harassment, as I see it.",2
+6212af02-c142-408d-854f-577450839639,f,"It's vulgar and insulting, but it feels like another passing insult rather than part of a campaign of personalized harassment.",8
+6212af02-c142-408d-854f-577450839639,t,"Messages calling for physical harm of any kind are threatening and are harassment, as far as I'm concerned.",16
+6212af02-c142-408d-854f-577450839639,f,"I'm not entirely sure about this one. It's gross and vulgar, so it feels harassing, but it's also so stupid that it seems more like someone trying to get attention through shock value rather than someone threatening someone else.",17
+6212af02-c142-408d-854f-577450839639,t,"Insults like ""bitch"" feel personal, and it's the personalized aspect of messages like this that make them feel like harassment to me.",19
+6212af02-c142-408d-854f-577450839639,f,"This seems like a dumb, passing insult from a 12-year-old trying to get a laugh.",20
+6212af02-c142-408d-854f-577450839639,t,"The writer is implying that they'll continue doing whatever it is they've done and that they can't be blocked. That suggests an ongoing campaign of some kind, which constitutes harassment.",3
+6212af02-c142-408d-854f-577450839639,t,"The writer is directly calling the recipient a ""target"" and saying that they intend to focus some sort of campaign against this ""target"" - it's very threatening and implies ongoing trouble.",4
+6212af02-c142-408d-854f-577450839639,f,"It's stupid, vulgar and insulting, but it doesn't feel personal or directly threatening, or part of a larger campaign.",5
+b7c3a718-a038-47a8-97c2-300617e5b95d,t,"",6
+b7c3a718-a038-47a8-97c2-300617e5b95d,t,"",7
+b7c3a718-a038-47a8-97c2-300617e5b95d,t,"",9
+b7c3a718-a038-47a8-97c2-300617e5b95d,t,"",10
+b7c3a718-a038-47a8-97c2-300617e5b95d,t,"",11
+fc5e1fd6-3bda-430a-9f9f-e45192f0cd4f,t,"Threat to vandalize, threat to impersonate",12
+fc5e1fd6-3bda-430a-9f9f-e45192f0cd4f,f,I don’t know if you can DDOS a toaster.,13
+fc5e1fd6-3bda-430a-9f9f-e45192f0cd4f,t,Obscene language directed at recipient ,14
+fc5e1fd6-3bda-430a-9f9f-e45192f0cd4f,t,"Use of obscene language, forceful demand, referring to recipient as ‘bitch’",15
+fc5e1fd6-3bda-430a-9f9f-e45192f0cd4f,t,"Mildly, calling recipient wanker/dick",18
+fc5e1fd6-3bda-430a-9f9f-e45192f0cd4f,f,Not particularly personal or threatening,1
+fc5e1fd6-3bda-430a-9f9f-e45192f0cd4f,t,Threats,2
+fc5e1fd6-3bda-430a-9f9f-e45192f0cd4f,t,"Yes, slur for ‘gay’ directed at tecipient",6
+fc5e1fd6-3bda-430a-9f9f-e45192f0cd4f,t,"Yes, threats made, but poor use of language/grammar makes it seem less threatening",7
+fc5e1fd6-3bda-430a-9f9f-e45192f0cd4f,t,"Bad language, forceful direction",8
+fc5e1fd6-3bda-430a-9f9f-e45192f0cd4f,t,Trying to control recipient’s behavior with threats and obscene lamguage,9
+fc5e1fd6-3bda-430a-9f9f-e45192f0cd4f,t,"Use of racial slur, threat to locate tecipient",10
+fc5e1fd6-3bda-430a-9f9f-e45192f0cd4f,t,Aggressive violent threat,11
+fc5e1fd6-3bda-430a-9f9f-e45192f0cd4f,t,"Yes, but short and suggestion rather than threat",16
+fc5e1fd6-3bda-430a-9f9f-e45192f0cd4f,t,"Not 100% sure, unclear who words are directed at",17
+fc5e1fd6-3bda-430a-9f9f-e45192f0cd4f,t,Use of bitch and other obscene language combined with demands and criticism,19
+fc5e1fd6-3bda-430a-9f9f-e45192f0cd4f,f,"Not very threatening, not even clear if this is a bad thing",20
+fc5e1fd6-3bda-430a-9f9f-e45192f0cd4f,t,Obscene implications made re: recipients parents,3
+fc5e1fd6-3bda-430a-9f9f-e45192f0cd4f,t,Seems like threat.,4
+fc5e1fd6-3bda-430a-9f9f-e45192f0cd4f,t,Sexually explicit,5
+e2d3df8f-1e48-4a08-9369-0e2ef5248147,f,Seems like a joke.,12
+e2d3df8f-1e48-4a08-9369-0e2ef5248147,f,Assume it’s a joke. Unless I had an internet toaster. ,13
+e2d3df8f-1e48-4a08-9369-0e2ef5248147,t,Homophobic slur and profanity filter circumvention ,14
+e2d3df8f-1e48-4a08-9369-0e2ef5248147,f,"Definitely unpleasant yes, but mind your own business comment suggests this is let if an exchange. Harassment to me is unsolicited and maybe sustained. ",15
+e2d3df8f-1e48-4a08-9369-0e2ef5248147,t,"",18
+e2d3df8f-1e48-4a08-9369-0e2ef5248147,f,"",1
+e2d3df8f-1e48-4a08-9369-0e2ef5248147,f,"Even though this has a threat of violence, the subliteracy here is funny to me, and I find t hard to be offended by funny things, and it’s hard for me to perceive non offensive things as harassment ",2
+e2d3df8f-1e48-4a08-9369-0e2ef5248147,t,"",6
+e2d3df8f-1e48-4a08-9369-0e2ef5248147,t,Not as funny,7
+e2d3df8f-1e48-4a08-9369-0e2ef5248147,t,Ableism ,8
+e2d3df8f-1e48-4a08-9369-0e2ef5248147,t,"",9
+e2d3df8f-1e48-4a08-9369-0e2ef5248147,t,Racial slur,10
+e2d3df8f-1e48-4a08-9369-0e2ef5248147,f,Maybe the person was being a shithead?,11
+e2d3df8f-1e48-4a08-9369-0e2ef5248147,t,"",16
+e2d3df8f-1e48-4a08-9369-0e2ef5248147,t,"",17
+e2d3df8f-1e48-4a08-9369-0e2ef5248147,t,"This is somehow worse than the others because it’s easier to ignore lame insults, but assuming the person is correct about the images, this would hurt",19
+e2d3df8f-1e48-4a08-9369-0e2ef5248147,f,"",20
+e2d3df8f-1e48-4a08-9369-0e2ef5248147,t,"",3
+e2d3df8f-1e48-4a08-9369-0e2ef5248147,t,"",4
+e2d3df8f-1e48-4a08-9369-0e2ef5248147,t,"",5
+efd44f54-952f-48ca-ad22-cffc99c29e67,t,"",12
+efd44f54-952f-48ca-ad22-cffc99c29e67,t,"",13
+efd44f54-952f-48ca-ad22-cffc99c29e67,t,"",14
+efd44f54-952f-48ca-ad22-cffc99c29e67,t,"",15
+efd44f54-952f-48ca-ad22-cffc99c29e67,t,"",18
+efd44f54-952f-48ca-ad22-cffc99c29e67,t,"",1
+efd44f54-952f-48ca-ad22-cffc99c29e67,t,"",2
+efd44f54-952f-48ca-ad22-cffc99c29e67,t,"",6
+efd44f54-952f-48ca-ad22-cffc99c29e67,t,"",7
+efd44f54-952f-48ca-ad22-cffc99c29e67,t,"",8
+efd44f54-952f-48ca-ad22-cffc99c29e67,t,"",9
+efd44f54-952f-48ca-ad22-cffc99c29e67,t,"",10
+efd44f54-952f-48ca-ad22-cffc99c29e67,t,"",11
+efd44f54-952f-48ca-ad22-cffc99c29e67,t,"",16
+efd44f54-952f-48ca-ad22-cffc99c29e67,t,"",17
+efd44f54-952f-48ca-ad22-cffc99c29e67,t,"",19
+efd44f54-952f-48ca-ad22-cffc99c29e67,t,"",20
+efd44f54-952f-48ca-ad22-cffc99c29e67,t,"",3
+efd44f54-952f-48ca-ad22-cffc99c29e67,t,"",4
+efd44f54-952f-48ca-ad22-cffc99c29e67,t,"",5
